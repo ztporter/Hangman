@@ -1,0 +1,9 @@
+frog zebra leopard elephant horse lion tiger 
+bear shark whale flounder pelican ostrich 
+platypus beaver otter pidgeon toucan snake 
+cobra rabbit squirrel chipmunk wildcat buffalo 
+monkey hippopotamus rhinoceraus dinosaur 
+cardinal panda gorilla spider dolphin crab 
+lobster starfish fox weasel opposum racoon 
+penguin dragon pig cow bull chicken catfish 
+antelope giraffe

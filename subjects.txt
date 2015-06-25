@@ -1,0 +1,8 @@
+geography latin spanish french mathematics 
+philosophy psychology biology physics 
+english journalism anatomy chemistry 
+matrix_algebra calculus chinese japanese 
+literature ancient_civilizations european_history 
+world_history us_history communications 
+engineering economics marketing accounting 
+management kinesiology 
